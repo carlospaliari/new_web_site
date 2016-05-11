@@ -8,6 +8,13 @@ body {
     -webkit-text-size-adjust: 100%;	
 }
 
+.background-info {
+    background: #5bc0de;
+    color: #f4f4f4;
+    text-align: center;
+ 
+}
+
 :focus {
     outline: 0 !important
 }
