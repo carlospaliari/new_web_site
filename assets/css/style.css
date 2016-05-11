@@ -75,6 +75,11 @@ ul {
     font-family: 'Dosis', sans-serif;
 }
 
+.text-blue {
+    color: #31708f;
+}
+
+
 .btn-lg {
 	display: inline-block;
 	height: 52px;
