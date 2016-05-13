@@ -12,8 +12,14 @@ body {
     background: #5bc0de;
     color: #f4f4f4;
     text-align: center;
- 
 }
+ 
+.background-primary {
+    background: #337ab7;
+    color: #f4f4f4;
+    text-align: center;    
+ }
+
 
 :focus {
     outline: 0 !important
