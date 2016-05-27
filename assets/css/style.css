@@ -1445,15 +1445,15 @@ color: #888;
     text-align: center;
   margin-top: 20px; }
 
-/***** Testimonials *****/
+/***** Depoimentos *****/
 
-.testimonials {
+.depoimentos {
     margin-top: 60px;
     padding-bottom: 70px;
     text-align: center;
 }
 
-.testimonials h3 {
+.depoimentos h3 {
     font-family: 'Open Sans', sans-serif;
     padding-bottom: 50px;
     font-size: 32px;
@@ -1462,22 +1462,22 @@ color: #888;
     line-height: 36px;
 }
 
-.testimonials h4{
+.depoimentos h4{
     color:#555;
     font-weight: 300;
     line-height: 32px;
 }
-.testimonials  h4 i{
+.depoimentos  h4 i{
     color:#f99200;
 }
-.testimonials p{
+.depoimentos p{
     font-size: 14px;
     color: #323A45;
     line-height: 20px;
     font-weight: 700;
 }
 
-.testimonials img{ 
+.depoimentos img{ 
 	width:100px;
 	height:100px;
 	display:block;
